@@ -1,0 +1,59 @@
+.button{
+    background-color: #380763;
+    padding: 7px;
+    width: 100px;
+    border: .1px solid transparent;
+    border-radius: 5px;
+}
+.button:hover{
+ background-color: purple;
+}
+.delete{
+    background-color: #380763;
+    padding: 7px;
+    border-radius: 5px;
+    border: .1px solid transparent;
+  
+}
+.delete:hover{
+    background-color: purple;
+   }
+table,tr,td,th,thead{
+    border: 1px solid;
+    padding: 15px;
+}
+.faltu{
+    margin-top: -50px;
+}
+.footer{
+   margin-top: 20px;
+    background-color:  #380763;
+    text-align: center;
+    padding: 10px;
+  
+}
+.copyright{
+   color: whitesmoke;
+   font-size: 20px;
+  
+}
+/* .button {
+    padding: 15px 25px;
+    font-size: 24px;
+    text-align: center;
+    cursor: pointer;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: }
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  } */

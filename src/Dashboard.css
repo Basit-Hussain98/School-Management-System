@@ -1,0 +1,18 @@
+hr.line{
+    border: .2px solid gray;
+}
+h6{
+    font-size: 35px;
+    color: #380763;
+    
+}
+a{
+    color: #380763;
+}
+a:hover{
+    color:  #380763;
+}
+
+.dash{
+    background-color: whitesmoke;
+}
